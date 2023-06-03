@@ -20,11 +20,11 @@ To install **vCard**, follow these steps:
 Linux and macOS:
 
 ```bash
-sudo git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+sudo git clone https://github.com/rishika64/vcard-personal-portfolio.git
 ```
 
 Windows:
 
 ```bash
-git clone https://github.com/codewithsadee/vcard-personal-portfolio.git
+git clone https://github.com/rishika64/vcard-personal-portfolio.git
 ```
