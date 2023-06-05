@@ -81,7 +81,7 @@ Experience
 AI Research Intern
 Open Health Systems Laboratory(OHSL)
 Jun 2023 — Present
-- Working on applications of Large Language Models (LLMs) and Generative Artificial Intelligence in Life Sciences.
+- Working on data analytics of Large Language Models (LLMs) and Generative Artificial Intelligence in Life Sciences.
 
 Data Science Intern
 Skillvoid Technologies	
@@ -117,14 +117,14 @@ Front-end Development
 Portfolio
 
 All
-Web design
-Applications
+machine learning
+data analytics
 Web development
 
 Select category
 All
-Web design
-Applications
+machine learning
+data analytics
 Web development
 
 alt = finance
@@ -137,19 +137,19 @@ Web development
 
 alt = fundo
 Fundo
-Web design
+machine learning
 
 alt = brawlhalla
 Brawlhalla
-Applications
+data analytics
 
 alt = dsm.
 DSM.
-Web design
+machine learning
 
 alt = metaspark
 MetaSpark
-Web design
+machine learning
 
 alt = summary
 Summary
@@ -157,7 +157,7 @@ Web development
 
 alt = task manager
 Task Manager
-Applications
+data analytics
 
 alt = arrival
 Arrival
