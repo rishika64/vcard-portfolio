@@ -33,9 +33,9 @@ About me
 
 I want to help others make the right decisions, data-driven decisions.
 
-Since I was young, I have always enjoyed to solve puzzles. So that’s how I look at big data sets: to me it is one big puzzle waiting to be solved. Finding patterns nobody else sees is the challenge to me. 
+Since I was young, I have always enjoyed to solve puzzles. So that’s how I look at big data sets: to me it is one big puzzle waiting to be solved. Finding patterns Web Development else sees is the challenge to me. 
 
-With a strong background in data analysis and machine learning models, I translate data into valuable and comprehensible insights. My goal is to improve results, make the right decisions and save costs. I am experienced in machine learning, supervised and unsupervised algorithms and use data visualization techniques to present the results. I use SQL, Python, and PowerBI for my data projects.
+With a strong background in data analysis and Data Analytics models, I translate data into valuable and comprehensible insights. My goal is to improve results, make the right decisions and save costs. I am experienced in Data Analytics, supervised and unsupervised algorithms and use data visualization techniques to present the results. I use SQL, Python, and PowerBI for my data projects.
 
 ## service
 
@@ -45,9 +45,9 @@ alt = design icon
 Data analysis
 I am specialized in analyzing data. Results, trends and recommendations are clearly presented in reports or tools.
 
-alt = Web development icon
-Data analytics
-Get more value from your data with prediction models and machine learning techniques, for example by predicting behavior or targeting the right customer.
+alt = Machine Learning icon
+Web Development
+Get more value from your data with prediction models and Data Analytics techniques, for example by predicting behavior or targeting the right customer.
 
 alt = mobile app icon
 Dashboards
@@ -68,7 +68,7 @@ Education
 Amity University 
 2020 — 2024
 Bachelor of Technology in Information Technology
-Specialization in Artificial Intelligence/Machine Learning
+Specialization in Artificial Intelligence/Data Analytics
 CGPA: 7.7
 
 Marigold Public School
@@ -81,7 +81,7 @@ Experience
 AI Research Intern
 Open Health Systems Laboratory(OHSL)
 Jun 2023 — Present
-- Working on data analytics of Large Language Models (LLMs) and Generative Artificial Intelligence in Life Sciences.
+- Working on Web Development of Large Language Models (LLMs) and Generative Artificial Intelligence in Life Sciences.
 
 Data Science Intern
 Skillvoid Technologies	
@@ -117,51 +117,51 @@ Front-end Development
 Portfolio
 
 All
-machine learning
-data analytics
-Web development
+Data Analytics
+Web Development
+Machine Learning
 
 Select category
 All
-machine learning
-data analytics
-Web development
+Data Analytics
+Web Development
+Machine Learning
 
 alt = finance
 Finance
-Web development
+Machine Learning
 
 alt = orizon
 Orizon
-Web development
+Machine Learning
 
 alt = fundo
 Fundo
-machine learning
+Data Analytics
 
 alt = brawlhalla
 Brawlhalla
-data analytics
+Web Development
 
 alt = dsm.
 DSM.
-machine learning
+Data Analytics
 
 alt = metaspark
 MetaSpark
-machine learning
+Data Analytics
 
 alt = summary
 Summary
-Web development
+Machine Learning
 
 alt = task manager
 Task Manager
-data analytics
+Web Development
 
 alt = arrival
 Arrival
-Web development
+Machine Learning
 
 
 
