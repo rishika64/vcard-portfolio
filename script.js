@@ -186,3 +186,16 @@ function P9() {
     window.location.href = "https://github.com/rishika64/TextGAN";
 }
 
+function resume() {
+  window.location.href = "https://drive.google.com/file/d/1RXQvvN44cf1YvRRPHTuVWxgUlEbpAGK2/view?usp=sharing";
+}
+
+var icon = document.getElementById("icon");
+icon.onclick = function() {
+  document.body.classList.toggle("dark-theme");
+  if (document.body.classList.contains("dark-theme")) {
+    icon.setAttribute("name", "sunny-outline");
+  } else {
+    icon.setAttribute("name", "moon-outline");
+  }
+};
