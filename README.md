@@ -7,7 +7,7 @@ To ensure code quality and version control, I used Git and GitHub. I leveraged G
 The website is optimized for search engines and features clean, semantic HTML markup, and CSS classes. The site has been tested for cross-browser compatibility, ensuring that it works well on different browsers such as Google Chrome, Mozilla Firefox, and Microsoft Edge.
 
 # Watch it here live!
-You can view the live website at [insert your website URL here]
+You can view the live website [here!](https://rishika64.github.io/vcard-portfolio/)
 
 ## Demo
 
