@@ -146,43 +146,12 @@ for (let i = 0; i < navigationLinks.length; i++) {
   });
 }
 
-function myFunction() {
-    window.location.href = "https://www.cloudskillsboost.google/public_profiles/883b701b-21e3-4f83-81f3-ace4aacc954a";
+var icon = document.getElementById("icon");
+icon.onclick = function() {
+  document.body.classList.toggle("dark-theme");
+  if (document.body.classList.contains("dark-theme")) {
+    icon.setAttribute("name", "sunny-outline");
+  } else {
+    icon.setAttribute("name", "moon-outline");
   }
-
-function P1() {
-    window.location.href = "https://github.com/rishika64/Personal-AI-Yoga-Trainer";
-  }
-
-  function P2() {
-    window.location.href = "https://github.com/rishika64/Conversational-AI-ChatBot";
-  }
-
-function P3() {
-    window.location.href = "https://app.powerbi.com/view?r=eyJrIjoiNmVjMzUyZWMtNmYxOS00NTUwLTllZWItNWY4YjQxNzUxNGM3IiwidCI6Ijc0MzBjOGJlLWQ1ZTMtNDgxYi1hNTcwLTZjOGI0MzRkZGY4OCIsImMiOjZ9&pageName=ReportSectiond3d44545dbca62ed4c1e";
-  }
-
-function P4() {
-    window.location.href = "https://github.com/rishika64/binodverma-co";
-}
-
-function P5() {
-    window.location.href = "https://github.com/rishika64/Market-Basket-Analysis";
-}
-
-function P6() {
-    window.location.href = "https://github.com/rishika64/Sentiment-Analysis-for-Movie-Rating";
-}
-
-function P7() {
-    window.location.href = "https://github.com/rishika64/Identifying-Saliency-in-Image-using-Edge-Detection";
-}
-
-function P8() {
-    window.location.href = "https://github.com/rishika64/Responsive-Task-Manager";
-}
-
-function P9() {
-    window.location.href = "https://github.com/rishika64/TextGAN";
-}
-
+};
