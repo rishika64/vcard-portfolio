@@ -1317,7 +1317,7 @@ main {
 
 .form-input:focus { border-color: var(--orange-yellow-crayola); }
 
-.form-input {
+textarea.form-input {
   min-height: 100px;
   height: 120px;
   max-height: 200px;
@@ -1325,7 +1325,7 @@ main {
   margin-bottom: 25px;
 }
 
-.form-input::-webkit-resizer { display: none; }
+textarea.form-input::-webkit-resizer { display: none; }
 
 .form-input:focus:invalid { border-color: var(--bittersweet-shimmer); }
 
