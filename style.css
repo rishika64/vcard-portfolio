@@ -4,6 +4,69 @@
 
 :root {
 
+  --bg-gradient-onyx: linear-gradient(   /* avatar box */
+  to bottom right, 
+  hsl(240, 1%, 25%) 3%, 
+  hsl(0, 0%, 19%) 97%
+);
+--bg-gradient-jet: linear-gradient(   /* what I'm doing */
+  to bottom right, 
+  hsla(240, 1%, 18%, 0.251) 0%, 
+  hsla(240, 2%, 11%, 0) 100%
+), hsl(240, 2%, 13%);
+--bg-gradient-yellow-1: linear-gradient(   /* apparently idk */
+  to bottom right, 
+  hsl(45, 100%, 71%) 0%, 
+  hsla(36, 100%, 69%, 0) 50%
+);
+--bg-gradient-yellow-2: linear-gradient(  /* effect before hover */
+  135deg, 
+  hsla(45, 100%, 71%, 0.251) 0%, 
+  hsla(35, 100%, 68%, 0) 59.86%
+), hsl(240, 2%, 13%);
+--border-gradient-onyx: linear-gradient(  /* shadow behind widgets */
+  to bottom right, 
+  hsl(0, 0%, 25%) 0%, 
+  hsla(0, 0%, 25%, 0) 50%
+);
+--text-gradient-yellow: linear-gradient(   /* resume graph line and add on lines */
+  to right, 
+  hsl(45, 100%, 72%), 
+  hsl(35, 100%, 68%)
+);
+
+/* solid */
+
+--jet: hsl(0, 0%, 22%);  /* card border */
+--onyx: hsl(240, 1%, 17%);   /* data science bg */
+--eerie-black-1: hsl(240, 2%, 13%);  /* widget bg */
+--eerie-black-2: hsl(240, 2%, 12%);  /* card bg */
+--smoky-black: hsl(0, 0%, 7%);       /* card bg bg */
+--white-1: hsl(0, 0%, 100%);  /* data science txt */
+--white-2: hsl(0, 0%, 98%);  /* THE TITLE */
+--orange-yellow-crayola: hsl(45, 100%, 72%);  /* widget color and show contact txt */
+--orange-yellow-crayola1: hsl(45, 100%, 72%);   /* navbar word highlight */
+--vegas-gold: hsl(45, 54%, 58%);  /* resume year */
+--light-gray: hsl(0, 0%, 84%);  /* general and navbar text*/
+--gray-tone: hsla(240, 1%, 17%, 0.75); /* navbar bg */
+--light-gray-70: hsla(0, 0%, 84%, 0.7);  /* TITLES in show contact */
+--light-gray-71: hsla(0, 0%, 84%, 0.7);  /* hover effect */
+--bittersweet-shimmer: hsl(0, 43%, 51%);  /* invalid */
+--toggle: hsla(0, 0%, 84%, 0.7); /* toggle color */
+--purple: #ffdb70; /* service icons */
+
+  /**
+   * filter
+   */
+
+   --grayscale: grayscale(1) invert(1);
+   --blur: contrast(0.8); 
+
+}
+
+.dark-theme {
+
+
   /**
    * colors
    */
@@ -129,68 +192,7 @@
 
   --grayscale: none;
   --blur: none;
-
-}
-
-.dark-theme {
-  --bg-gradient-onyx: linear-gradient(   /* avatar box */
-  to bottom right, 
-  hsl(240, 1%, 25%) 3%, 
-  hsl(0, 0%, 19%) 97%
-);
---bg-gradient-jet: linear-gradient(   /* what I'm doing */
-  to bottom right, 
-  hsla(240, 1%, 18%, 0.251) 0%, 
-  hsla(240, 2%, 11%, 0) 100%
-), hsl(240, 2%, 13%);
---bg-gradient-yellow-1: linear-gradient(   /* apparently idk */
-  to bottom right, 
-  hsl(45, 100%, 71%) 0%, 
-  hsla(36, 100%, 69%, 0) 50%
-);
---bg-gradient-yellow-2: linear-gradient(  /* effect before hover */
-  135deg, 
-  hsla(45, 100%, 71%, 0.251) 0%, 
-  hsla(35, 100%, 68%, 0) 59.86%
-), hsl(240, 2%, 13%);
---border-gradient-onyx: linear-gradient(  /* shadow behind widgets */
-  to bottom right, 
-  hsl(0, 0%, 25%) 0%, 
-  hsla(0, 0%, 25%, 0) 50%
-);
---text-gradient-yellow: linear-gradient(   /* resume graph line and add on lines */
-  to right, 
-  hsl(45, 100%, 72%), 
-  hsl(35, 100%, 68%)
-);
-
-/* solid */
-
---jet: hsl(0, 0%, 22%);  /* card border */
---onyx: hsl(240, 1%, 17%);   /* data science bg */
---eerie-black-1: hsl(240, 2%, 13%);  /* widget bg */
---eerie-black-2: hsl(240, 2%, 12%);  /* card bg */
---smoky-black: hsl(0, 0%, 7%);       /* card bg bg */
---white-1: hsl(0, 0%, 100%);  /* data science txt */
---white-2: hsl(0, 0%, 98%);  /* THE TITLE */
---orange-yellow-crayola: hsl(45, 100%, 72%);  /* widget color and show contact txt */
---orange-yellow-crayola1: hsl(45, 100%, 72%);   /* navbar word highlight */
---vegas-gold: hsl(45, 54%, 58%);  /* resume year */
---light-gray: hsl(0, 0%, 84%);  /* general and navbar text*/
---gray-tone: hsla(240, 1%, 17%, 0.75); /* navbar bg */
---light-gray-70: hsla(0, 0%, 84%, 0.7);  /* TITLES in show contact */
---light-gray-71: hsla(0, 0%, 84%, 0.7);  /* hover effect */
---bittersweet-shimmer: hsl(0, 43%, 51%);  /* invalid */
---toggle: hsla(0, 0%, 84%, 0.7); /* toggle color */
---purple: #ffdb70; /* service icons */
-
-  /**
-   * filter
-   */
-
-   --grayscale: grayscale(1) invert(1);
-   --blur: contrast(0.8); 
-
+	
 }
 
 
